@@ -1,7 +1,8 @@
-Indigo Core staging tree 1.0.0.7
+
+Indigo Core staging tree 1.0.0.8
 ===============================
 
-http://indigocoin.io
+https://indigocoin.io
 
 
 What is Indigo?
